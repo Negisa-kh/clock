@@ -3,7 +3,7 @@ Dark mode switcher
 ![Screenshot (274)](https://github.com/Negisa-kh/clock/assets/139978798/947fcc6e-dc09-415f-b819-402d5e6a39a3)
 ![Screenshot (275)](https://github.com/Negisa-kh/clock/assets/139978798/fec770be-d3c5-42a1-aedd-b0647df2be9d)
 ![Screenshot (276)](https://github.com/Negisa-kh/clock/assets/139978798/f704e481-c4e4-43d0-8701-77fc08267977)
-![Screenshot (277)](https://github.com/Negisa-kh/clock/assets/139978798/09a23ac6-09a7-48d8-be62-06d9e9b1ae5a)
+![Screenshot (277)](https://github.com/Negisa-kh/clock/assets/139978798/5360a1cd-2459-4557-9604-baae8afa5fd1)
 
 
 ![Screenshot (278)](https://github.com/Negisa-kh/clock/assets/139978798/3f81a8a6-41a3-41c0-87e4-e18a5d7e1924)
